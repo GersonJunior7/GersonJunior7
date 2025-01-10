@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm currently a Front-end student<br>🎓 I'm studying systems analysis and development<br>🤝 I'm looking for an internship opportunity in the software development field<br>
+👨‍💻 Sou desenvolvedor Front-end Júnior<br>🎓 Formando em Análise e Desenvolvimento de Sistemas<br💻 Trabalho com tecnologias como HTML, CSS, JavaScript, PHP, MySQL, Bootstrap e mais<br>🤝 Estou em busca de novas oportunidades de crescimento na área de desenvolvimento de software, com foco em front-end<br>
 
 
 ## 🌐 Socials:
